@@ -1,7 +1,8 @@
 # Tableau_Project
 **Superstore Sales Performance**
 
-![Screenshot (1046)](https://github.com/Debabrata-palit/Tableau_Project/assets/163582682/3db8e472-5aff-4df7-bcff-9974e98bc27d)
+![Sales Dashboard](https://github.com/Debabrata-palit/Tableau_Projects/assets/163582682/bd08815a-572f-4fb0-89bf-fcc357e04e9c)
+
 Table Public: https://public.tableau.com/app/profile/debabrata.palit03/viz/SuperSalesPerformance/SalesDashboard
 
 ## PROBLEM STATEMENT:
@@ -35,7 +36,8 @@ Connect to the Sample Superstore dataset and build a Dashboard that will show th
 - Pie Chart should display the percent of Total Sales by Region.
 - Use the Summer Color Palette. Pie Chart should have black borders.
 - Tooltip should be formatted as seen below showing Region Name, Percent of Total Sales, and the Total Sales value formatted in currency and displayed in thousands (K).  
-  ![image](https://github.com/Debabrata-palit/Tableau_Project/assets/163582682/e39e2f33-5795-4b82-b591-bfa28a00df46)  
+  ![image](https://github.com/Debabrata-palit/Tableau_Projects/assets/163582682/0a324bf6-97bb-4e73-8f13-c91ba1fc373b)
+
 *Note: Drag all the filters mentioned in the general requirement to this sheet named Pie Chart.*
 
 **View 6: Bar Chart**
@@ -77,8 +79,8 @@ Connect to the Sample Superstore dataset and build a Dashboard that will show th
 
 **Dashboard Containers:**
 - Horizontal Container 1: Should have the name of the dashboard and add an image showing a shopping cart (add an image with transparent background) to the left of it as shown below. You can rename this container “Title/Logo” as it will help you distinguish between containers.
-  
-  ![0f37ed27-e7bf-4b8c-8de8-67a5e77282a7-Picture7](https://github.com/Debabrata-palit/Tableau_Project/assets/163582682/8528d139-09c1-417c-9f67-2c99bcb277da)
+
+  ![image](https://github.com/Debabrata-palit/Tableau_Projects/assets/163582682/6a72ae1a-0e74-4361-9b0e-2dd6a7c0d8df)
 
 - Horizontal Container 2: This should contain all the filters arranged in a horizontal container. Name this container “Filters”. Distribute the contents evenly.
 - Horizontal Container 3: Arrange all the scorecards in a horizontal container.

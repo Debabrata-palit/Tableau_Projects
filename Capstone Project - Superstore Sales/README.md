@@ -8,12 +8,12 @@
 ## PROBLEM STATEMENT:
 **Capstone Project - Superstore Sales Performance**
 
-> ###Tableau Project Requirement:
+> **Tableau Project Requirement:**
 
 The workbook should have a single dashboard.  
 Each worksheet/view/chart should meet the business requirement.
 
-> ###Business Requirement:
+> **Business Requirement:**
 
 Connect to the Sample Superstore dataset and build a Dashboard that will show the Sales Performance.
 
@@ -61,7 +61,7 @@ Connect to the Sample Superstore dataset and build a Dashboard that will show th
 - Use Order Date as a Date Range filter.
 - Name the sheet as shown below and color the tab.
 
-> ###Dashboard Requirements:
+> **Dashboard Requirements:**
 
 **Dashboard Name:** Sales Dashboard  
 **Dashboard Title:** Superstore Sales Performance  
@@ -79,7 +79,7 @@ Connect to the Sample Superstore dataset and build a Dashboard that will show th
 - Add borders if necessary.
 - Place all these filters in a horizontal container and distribute them evenly.
 
-> ###Dashboard Containers:
+> **Dashboard Containers:**  
 **Horizontal Container 1:** Should have the name of the dashboard and add an image showing a shopping cart (add an image with transparent background) to the left of it as shown below. You can rename this container “Title/Logo” as it will help you distinguish between containers.
 
   ![image](https://github.com/Debabrata-palit/Tableau_Projects/assets/163582682/6a72ae1a-0e74-4361-9b0e-2dd6a7c0d8df)

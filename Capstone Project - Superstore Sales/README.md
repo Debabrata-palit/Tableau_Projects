@@ -3,17 +3,16 @@
 
 ![Sales Dashboard](https://github.com/Debabrata-palit/Tableau_Projects/assets/163582682/bd08815a-572f-4fb0-89bf-fcc357e04e9c)
 
-Table Public: https://public.tableau.com/app/profile/debabrata.palit03/viz/SuperSalesPerformance/SalesDashboard
+> View it on Table Public: https://public.tableau.com/app/profile/debabrata.palit03/viz/SuperSalesPerformance/SalesDashboard
 
 ## PROBLEM STATEMENT:
+**Capstone Project - Superstore Sales Performance**
 
-> **Capstone Project - Superstore Sales Performance**
-
-## Tableau Project Requirement:
+> Tableau Project Requirement:
 The workbook should have a single dashboard.
 Each worksheet/view/chart should meet the business requirement.
 
-## Business Requirement:
+> Business Requirement:
 Connect to the Sample Superstore dataset and build a Dashboard that will show the Sales Performance.
 
 **View 1: Total Sales**
@@ -60,7 +59,7 @@ Connect to the Sample Superstore dataset and build a Dashboard that will show th
 - Use Order Date as a Date Range filter.
 - Name the sheet as shown below and color the tab.
 
-## Dashboard Requirements:
+> Dashboard Requirements:
 **Dashboard Name:** Sales Dashboard
 **Dashboard Title:** Superstore Sales Performance
 **Dashboard description:** Sales overview of the superstore data

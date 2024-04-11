@@ -84,14 +84,13 @@ Connect to the Sample Superstore dataset and build a Dashboard that will show th
 
   ![image](https://github.com/Debabrata-palit/Tableau_Projects/assets/163582682/6a72ae1a-0e74-4361-9b0e-2dd6a7c0d8df)
 
-- **Horizontal Container 2:** This should contain all the filters arranged in a horizontal container. Name this container “Filters”. Distribute the contents evenly.
-- **Horizontal Container 3:** Arrange all the scorecards in a horizontal container.
-- **Horizontal Container 4:** Pie Chart and Bar Chart should be arranged and placed in a horizontal container. Name it accordingly.
-- **Horizontal Container 5:** Bubble Chart and Line Chart should be arranged and placed in a horizontal container. Name it accordingly.
-- **Vertical Container:** Place all these horizontal containers one above the other, top to bottom, in the order they are numbered.
-
-- **Legends:** Hide the titles for the legends and place it next to their associated charts in such a way that they don’t overlap with the chart.
-- **Borders:** Add borders if needed per chart or per container, whichever is visually comprehensive.
+**Horizontal Container 2:** This should contain all the filters arranged in a horizontal container. Name this container “Filters”. Distribute the contents evenly.  
+**Horizontal Container 3:** Arrange all the scorecards in a horizontal container.  
+**Horizontal Container 4:** Pie Chart and Bar Chart should be arranged and placed in a horizontal container. Name it accordingly.  
+**Horizontal Container 5:** Bubble Chart and Line Chart should be arranged and placed in a horizontal container. Name it accordingly.  
+**Vertical Container:** Place all these horizontal containers one above the other, top to bottom, in the order they are numbered.  
+**Legends:** Hide the titles for the legends and place it next to their associated charts in such a way that they don’t overlap with the chart.  
+**Borders:** Add borders if needed per chart or per container, whichever is visually comprehensive.
 
 **Actionable Filters:**
 - Use the Pie chart and Bubble chart as Actionable Filters.

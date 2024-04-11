@@ -14,6 +14,7 @@ The workbook should have a single dashboard.
 Each worksheet/view/chart should meet the business requirement.
 
 > Business Requirement:
+
 Connect to the Sample Superstore dataset and build a Dashboard that will show the Sales Performance.
 
 **View 1: Total Sales**
@@ -61,9 +62,10 @@ Connect to the Sample Superstore dataset and build a Dashboard that will show th
 - Name the sheet as shown below and color the tab.
 
 > Dashboard Requirements:
-**Dashboard Name:** Sales Dashboard
-**Dashboard Title:** Superstore Sales Performance
-**Dashboard description:** Sales overview of the superstore data
+
+**Dashboard Name:** Sales Dashboard  
+**Dashboard Title:** Superstore Sales Performance  
+**Dashboard description:** Sales overview of the superstore data  
 **Dashboard size:** Width – 1055, Height – 850
 
 **Dashboard Filters:**

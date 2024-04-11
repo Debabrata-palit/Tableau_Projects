@@ -9,7 +9,8 @@
 **Capstone Project - Superstore Sales Performance**
 
 > Tableau Project Requirement:
-The workbook should have a single dashboard.
+
+The workbook should have a single dashboard.  
 Each worksheet/view/chart should meet the business requirement.
 
 > Business Requirement:

@@ -1,5 +1,6 @@
 # Prime Video Analysis Project
-I prepared a dashboard and a story of the Amazon Prime data using the Tableau tool.
+I prepared a dashboard and a story of the Amazon Prime data using the Tableau tool.  
+The dataset is collected from [Kaggle](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows?select=amazon_prime_titles.csv).
 
 > **Dashboard:**
 

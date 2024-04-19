@@ -9,7 +9,7 @@ The dataset is collected from [Kaggle](https://www.kaggle.com/datasets/shivamb/a
 > **Story:**
 
 
-https://github.com/Debabrata-palit/Tableau_Projects/assets/163582682/91b0d541-9bf0-48f7-9c26-77daaa48b2c6
+Uploading Prime Video Analysis - Story.mp4…
 
 
 > **View it on Tableau Public:** https://public.tableau.com/app/profile/debabrata.palit03/viz/PrimeVideoAnalysis_17129127364480/AmazonPrimeDashboard

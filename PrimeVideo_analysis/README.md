@@ -8,6 +8,8 @@ The dataset is collected from [Kaggle](https://www.kaggle.com/datasets/shivamb/a
 
 > **Story:**
 
-![prime_video_analysis](https://github.com/Debabrata-palit/Tableau_Projects/assets/163582682/7f6d6222-fecf-42e6-90b0-bd93d5f8d082)
+
+https://github.com/Debabrata-palit/Tableau_Projects/assets/163582682/91b0d541-9bf0-48f7-9c26-77daaa48b2c6
+
 
 > **View it on Tableau Public:** https://public.tableau.com/app/profile/debabrata.palit03/viz/PrimeVideoAnalysis_17129127364480/AmazonPrimeDashboard

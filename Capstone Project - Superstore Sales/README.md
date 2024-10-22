@@ -1,4 +1,4 @@
-# Tableau_Project
+# Superstore Sales
 **Superstore Sales Performance**
 
 ![Sales Dashboard](https://github.com/Debabrata-palit/Tableau_Projects/assets/163582682/bd08815a-572f-4fb0-89bf-fcc357e04e9c)
